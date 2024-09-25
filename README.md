@@ -1,9 +1,5 @@
 # SGD-Regressor-for-Multivariate-Linear-Regression
-```
-SGD-Regressor-for-Multivariate-Linear-Regression
-Name : Rajalakshmi R
-Register Number : 212223110037
-```
+
 ## AIM:
 To write a program to predict the price of the house and number of occupants in the house with SGD regressor.
 
@@ -12,18 +8,24 @@ To write a program to predict the price of the house and number of occupants in 
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. Start
-2. Data preparation
-3. Hypothesis Definition
-4. Cost Function
-5. Parameter Update Rule
-6. Iterative Training
-7. Model evaluation
-8. End
+STEP 1. Start
+STEP 2. Data preparation
+STEP 3. Hypothesis Definition
+STEP 4. Cost Function
+STEP 5. Parameter Update Rule
+STEP 6. Iterative Training
+STEP 7. Model evaluation
+STEP 8. End
 
 
 ## Program:
 ```
+/*
+SGD-Regressor-for-Multivariate-Linear-Regression
+Name : Rajalakshmi R
+Register Number : 212223110037
+*/
+
 import numpy as np
 import pandas as pd
 from sklearn.datasets import fetch_california_housing
